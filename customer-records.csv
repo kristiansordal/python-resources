@@ -1,0 +1,4 @@
+customer_id,name,plan,api_token_preview
+CUST-001,Duckburg Vault Corp,Enterprise,demo_fake_token_scrooge_999
+CUST-002,Acme Widgets AS,Pro,demo_fake_token_coyote_123
+CUST-003,Wayne Enterprises,Enterprise,demo_fake_token_batman_007
